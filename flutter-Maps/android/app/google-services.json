@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "381955397213",
+    "project_id": "flashpark-8dd19",
+    "storage_bucket": "flashpark-8dd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381955397213:android:c52e3759811533586c9fb4",
+        "android_client_info": {
+          "package_name": "com.example.flashpark_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381955397213-t9fce6276lb909mbkfq9hg5cq98qbo49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkz6d7ln5lroofFGLNcq5evUCI4fYv2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381955397213-t9fce6276lb909mbkfq9hg5cq98qbo49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381955397213:android:1daac4886bd25f246c9fb4",
+        "android_client_info": {
+          "package_name": "com.example.flashparkpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381955397213-t9fce6276lb909mbkfq9hg5cq98qbo49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkz6d7ln5lroofFGLNcq5evUCI4fYv2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381955397213-t9fce6276lb909mbkfq9hg5cq98qbo49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
